@@ -544,34 +544,22 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.bg-yellow-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(234 179 8 / var(--tw-bg-opacity));
-}
-
 .bg-yellow-200 {
   --tw-bg-opacity: 1;
   background-color: rgb(254 240 138 / var(--tw-bg-opacity));
 }
 
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
+.p-44 {
+  padding: 11rem;
 }
 
-.text-6xl {
-  font-size: 3.75rem;
-  line-height: 1;
+.p-4 {
+  padding: 1rem;
 }
 
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
-}
-
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
 }
 
 .text-xl {
